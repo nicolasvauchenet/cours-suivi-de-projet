@@ -56,9 +56,7 @@ Vous créerez des diagrammes d'activité pour représenter les flux de travail e
 application. Chaque diagramme illustrera les différentes étapes d'une activité, les décisions à prendre, et les actions
 consécutives, afin de visualiser clairement le fonctionnement et le déroulement des tâches au sein du système.
 
-## Étape 2
-
-### Analyse fonctionnelle :
+## Étape 2 : Conception UX et UI
 
 ### Conception UX
 
@@ -69,27 +67,15 @@ forme d'un modèle hiérarchique. Vous concevrez également les flux utilisateur
 de l'utilisateur à travers l'application. L'impact mapping aidera à aligner les fonctionnalités avec les objectifs
 business et les besoins des utilisateurs, assurant ainsi une expérience utilisateur cohérente et efficace.
 
-#### Wireframes
+### Conception UI
+
+#### Zoning / Wireframes
 
 Vous concevrez les interfaces utilisateur (UI) et identifierez les composants nécessaires pour votre application. Cela
 inclut la création de zonings et de wireframes pour visualiser l'apparence et la disposition des différentes pages et
 éléments interactifs, en veillant à respecter les principes de design et d'ergonomie.
 
-## Étape 3
-
-### Conception & Modélisation
-
-#### Diagrammes de Classes
-
-Vous allez créer des diagrammes de classes pour visualiser les différentes entités de votre application ainsi que leurs
-relations. Ces diagrammes vous permettront de structurer et de clarifier les interactions et dépendances entre les
-différentes composantes du système.
-
-#### Modèle de données
-
-Vous allez concevoir le modèle de données pour votre application. Cela inclut la définition des tables, des colonnes et
-des relations entre elles dans votre base de données. Le modèle de données sera crucial pour garantir l'intégrité et la
-performance de votre application.
+## Étape 3 : Stratégie technologique
 
 ### Choix technologiques
 
@@ -116,7 +102,7 @@ Vous allez élaborer une stratégie pour gérer les corrections de bugs, les tes
 inclura la définition des processus de test automatisés et manuels, ainsi que la planification des mises à jour et des
 correctifs.
 
-## Étape 4
+## Étape 4 : Stratégie projet
 
 ### Gestion de projet
 
@@ -150,7 +136,21 @@ Vous allez utiliser des statistiques prévisionnelles pour anticiper les besoins
 opportunités d'optimisation. Ces prévisions vous aideront à ajuster votre planification et à prendre des décisions
 informées tout au long du projet.
 
-## Étape 5
+## Étape 5 : Réalisation et Modélisation "Juste à Temps"
+
+### Conception & Modélisation
+
+#### Diagrammes de Classes
+
+Vous allez créer des diagrammes de classes pour visualiser les différentes entités de votre application ainsi que leurs
+relations. Ces diagrammes vous permettront de structurer et de clarifier les interactions et dépendances entre les
+différentes composantes du système.
+
+#### Modèle de données
+
+Vous allez concevoir le modèle de données pour votre application. Cela inclut la définition des tables, des colonnes et
+des relations entre elles dans votre base de données. Le modèle de données sera crucial pour garantir l'intégrité et la
+performance de votre application.
 
 ### Réalisation
 
@@ -170,3 +170,17 @@ place les outils de gestion de versions. Cette étape posera les bases de votre 
 Vous allez commencer l'implémentation des cycles de développement en suivant la planification établie. Cela impliquera
 la rédaction de code, la réalisation de tests et la livraison de fonctionnalités conformément aux spécifications du
 projet.
+
+## Étape 6 : Tests, Recettage et Déploiement
+
+### Tests End To End
+
+Vous validerez l'ensemble du flux applicatif pour vous assurer que toutes les fonctionnalités fonctionnent correctement.
+
+### Préparation de la démonstration
+
+Vous mettrez en place une version stable et fonctionnelle pour la présentation aux parties prenantes (au jury).
+
+### Déploiement
+
+Vous mettrez en production l'application après validation des tests.
