@@ -1,6 +1,12 @@
 # Suivi de Projet
 
-## Dossier
+## Tableau de suivi de l'avancement du projet
+
+### [En ligne (lecture seule - à dupliquer)](https://docs.google.com/spreadsheets/d/1UT1Cx6gRHP4xQIGrMmINYO72aAsb82H4qMykEPyYZG0/edit?usp=sharing)
+
+### [Format Excel](Ressources%2FTableau%20de%20suivi%20de%20projet.xlsx)
+
+## Dossier & Livrables
 
 ### Dossier professionnel
 
