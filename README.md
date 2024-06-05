@@ -1,11 +1,5 @@
 # Suivi de Projet
 
-## Tableau de suivi de l'avancement du projet
-
-### [En ligne (lecture seule - à dupliquer)](https://docs.google.com/spreadsheets/d/1UT1Cx6gRHP4xQIGrMmINYO72aAsb82H4qMykEPyYZG0/edit?usp=sharing)
-
-### [Format Excel](Ressources%2FTableau%20de%20suivi%20de%20projet.xlsx)
-
 ## Dossier & Livrables
 
 ### Dossier professionnel
@@ -198,3 +192,13 @@ prenantes (au jury), en veillant à ce que toutes les fonctionnalités soient pr
 
 Vous mettrez en production l'application après avoir effectué et validé tous les tests nécessaires, garantissant ainsi
 que l'application est prête pour une utilisation en conditions réelles.
+
+## Annexes
+
+### [Analyse du Référentiel de Certification](Analyse%20du%20R%C3%A9f%C3%A9rentiel%20de%20Certification%20-%20CDA.md)
+
+### Tableau de suivi de l'avancement du projet
+
+#### [En ligne (lecture seule - à dupliquer)](https://docs.google.com/spreadsheets/d/1UT1Cx6gRHP4xQIGrMmINYO72aAsb82H4qMykEPyYZG0/edit?usp=sharing)
+
+#### [Format Excel](Ressources%2FTableau%20de%20suivi%20de%20projet.xlsx)
