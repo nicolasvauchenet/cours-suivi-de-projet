@@ -140,6 +140,11 @@ informées tout au long du projet.
 
 ### Conception & Modélisation
 
+#### Diagrammes de Séquence
+
+Vous élaborerez des diagrammes de séquence détaillés pour illustrer les interactions et les échanges de messages entre
+les différents composants du système, permettant ainsi de visualiser et de comprendre le flux de processus.
+
 #### Diagrammes de Classes
 
 Vous allez créer des diagrammes de classes pour visualiser les différentes entités de votre application ainsi que leurs
@@ -175,12 +180,15 @@ projet.
 
 ### Tests End To End
 
-Vous validerez l'ensemble du flux applicatif pour vous assurer que toutes les fonctionnalités fonctionnent correctement.
+Vous validerez l'ensemble du flux applicatif en effectuant des tests complets du début à la fin pour vous assurer que
+toutes les fonctionnalités fonctionnent correctement et sans interruption.
 
 ### Préparation de la démonstration
 
-Vous mettrez en place une version stable et fonctionnelle pour la présentation aux parties prenantes (au jury).
+Vous mettrez en place une version stable et entièrement fonctionnelle de l'application pour la présentation aux parties
+prenantes (au jury), en veillant à ce que toutes les fonctionnalités soient prêtes à être démontrées.
 
 ### Déploiement
 
-Vous mettrez en production l'application après validation des tests.
+Vous mettrez en production l'application après avoir effectué et validé tous les tests nécessaires, garantissant ainsi
+que l'application est prête pour une utilisation en conditions réelles.
