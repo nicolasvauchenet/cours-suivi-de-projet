@@ -50,3 +50,5 @@
 
 - Utiliser l'anglais dans son activité professionnelle en conception et développement d'applications
 - Actualiser et partager ses compétences en conception et développement d'applications >>> faire de la veille
+- Maîtriser les exigences du RGPD pour assurer la conformité des applications logicielles
+- Appliquer les principes de l'éco-conception pour développer des logiciels durables et éco-responsables
