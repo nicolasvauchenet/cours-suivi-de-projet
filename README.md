@@ -71,13 +71,13 @@ titre.
 
 ## Les compétences évaluées
 
+### [Tableau récapitulatif des Compétences](Ressources/Concepteur-De%CC%81veloppeur-Applications-Compe%CC%81tences-REAC-v4-05_2023.pdf)
+
 ### [Analyse détaillée des compétences](Analyse%20des%20comp%C3%A9tences/README.md)
 
 ---
 
 ## Ressources
-
-### [Tableau récapitulatif des Compétences](Ressources/Concepteur-De%CC%81veloppeur-Applications-Compe%CC%81tences-REAC-v4-05_2023.pdf)
 
 ### [Fiche de communication](Ressources/Fiche_de_communication_CDA_2023.pdf)
 
