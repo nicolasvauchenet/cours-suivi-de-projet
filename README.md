@@ -1,204 +1,88 @@
-# Suivi de Projet
+# Suivi de Projet et préparation à l'évaluation CDA
 
-## Dossier & Livrables
+## Présentation du titre professionnel
 
-### Dossier professionnel
+Le **Concepteur Développeur d’Applications** (CDA) est un professionnel spécialisé dans la **conception et le
+développement d’applications sécurisées**, qu'il s'agisse de logiciels d'entreprise, d'applications mobiles, de
+sites web ou d'autres solutions informatiques. Ce titre de **niveau 6** (équivalent Bac+3/4) est structuré autour de
+**trois activités principales**, chacune validée par un **Certificat de Compétences Professionnelles** (CCP).
 
-Vous constituerez un dossier professionnel individuel qui détaillera vos qualifications, expériences et compétences
-pertinentes. Ce dossier mettra en avant votre parcours professionnel et sera utilisé pour valoriser vos aptitudes et
-votre expertise.
+---
 
-### Dossier de projet
+## Missions et Responsabilités
 
-Vous créerez un dossier de projet individuel qui comprendra tous les éléments essentiels de votre projet, y compris la
-description, les objectifs, les étapes d'analyse, de conception et de développement, et les livrables attendus. Ce
-dossier servira de référence pour valider votre projet personnel.
+- **Développement sécurisé :** Le CDA conçoit et développe des applications en veillant à leur sécurité et leur
+  conformité aux normes en vigueur (RGPD, recommandations de l’ANSSI).
+- **Gestion de projet :** Il participe à l'organisation et à l’optimisation du développement, garantissant le respect
+  des délais, coûts et objectifs qualité.
+- **Échange avec le client :** Il est l’interlocuteur principal du client pour recueillir les besoins et définir les
+  évolutions du projet.
+- **Développement technique :**
+    - Conception et développement d’interfaces utilisateur adaptées.
+    - Développement des traitements métier et des accès aux bases de données.
+    - Application d’une architecture logicielle en couches (multicouche).
+- **Mise en production et DevOps :** Il prépare le déploiement, rédige la documentation technique et contribue à
+  l’intégration continue en collaboration avec l’équipe de production.
+- **Accessibilité et conformité :** Il applique les recommandations du Référentiel Général d'Amélioration de l'
+  Accessibilité (RGAA) et assure la mise en conformité avec les exigences légales.
 
-### Support de présentation
+---
 
-Vous élaborerez un support de présentation individuel destiné à présenter votre projet au jury. Ce support
-comprendra des diapositives claires et concises mettant en avant les points clés et les bénéfices de votre projet,
-facilitant ainsi la communication et la compréhension des enjeux spécifiques à votre projet.
+## Compétences et Méthodologies
 
-## Étape 1 : Définition et Analyse des besoins
+- **Compétences techniques :**
+    - Programmation sécurisée (respect des normes et bonnes pratiques).
+    - Maîtrise des bases de données relationnelles et NoSQL.
+    - Développement d’interfaces respectant les maquettes et la charte graphique.
+    - Rédaction et exécution de plans de tests (fonctionnels, unitaires, de sécurité).
+    - Utilisation d’outils DevOps pour l’automatisation des déploiements.
+- **Communication et collaboration :**
+    - Interaction avec divers interlocuteurs : chef de projet, architecte logiciel, testeurs, experts sécurité,
+      administrateurs de bases de données.
+    - Adaptation de la communication à différents publics, y compris en anglais (B1 écrit, A2 oral).
+- **Adaptabilité et autonomie :**
+    - Travail en équipe hiérarchisée sous la supervision d’un chef de projet ou en mode agile au sein d’une équipe
+      pluridisciplinaire.
+    - Capacité à mener un projet en autonomie dans une petite structure.
+- **Veille et apprentissage continu :**
+    - Surveillance des évolutions technologiques et des menaces en cybersécurité.
+    - Mise à jour des compétences via des formations et des lectures techniques.
 
-### Pitch de présentation
+---
 
-Vous concevrez et vous préparerez une présentation concise de votre projet. Ce pitch expliquera le concept, les
-objectifs principaux, et les enjeux du projet en environ 2 minutes. L'objectif est de clarifier votre vision et d'amener
-vos auditeurs à imaginer votre application, afin de capter leur attention et de recevoir des retours constructifs.
+## Modalités d'évaluation
 
-### Analyse fonctionnelle
+À l’issue d’un parcours de formation complet, le candidat est évalué lors d’un entretien final avec un jury de
+professionnels. Cet entretien regroupe plusieurs éléments permettant d’apprécier l’ensemble de ses compétences :
 
-#### Définition des Exigences
+- **Présentation d’un projet :** Le candidat expose un projet réalisé en amont de la session. Cette présentation est
+  suivie d’un entretien technique, d’un questionnaire professionnel et d’un questionnement sur des productions pour
+  évaluer sa compréhension et sa maîtrise des concepts.
+- **Dossier professionnel :** Le candidat remet un dossier détaillant son expérience et ses réalisations, illustrant ses
+  compétences et sa pratique professionnelle. Ce dossier peut être complété par des annexes pour apporter des précisions
+  supplémentaires.
+- **Validation des compétences :** Le jury examine l’ensemble des éléments présentés afin d’évaluer l’aptitude du
+  candidat à exercer le métier visé et à répondre aux exigences du titre professionnel.
 
-Vous identifierez les exigences fonctionnelles de votre projet. Cela implique de lister les grand domaines qui
-composeront votre système, pour répondre aux besoins des utilisateurs et identifier ce que votre application leur
-apportera en terme de bénéfices directs. Vous rédigerez des spécifications claires et précises pour chaque exigence.
+L’objectif de cette évaluation est de garantir que le candidat possède les compétences requises pour l’obtention du
+titre.
 
-#### Définition des fonctionnalités
+---
 
-À partir des exigences fonctionnelles définies précédemment, vous détaillerez chaque fonctionnalité spécifique par
-domaine. Vous décrirez ce que chaque fonctionnalité doit faire, comment elle doit fonctionner, et comment elle
-interagira avec d'autres fonctionnalités. Cette étape vise à affiner les spécifications fonctionnelles en éléments
-concrets.
+## Les compétences évaluées
 
-#### Diagramme(s) de Cas d'Utilisation
+### [Analyse détaillée des compétences](Analyse%20des%20comp%C3%A9tences/README.md)
 
-Vous créerez des diagrammes de cas d'utilisation pour modéliser les interactions entre les utilisateurs et le système.
-Chaque diagramme doit représenter les différents scénarios où les utilisateurs interagissent avec le système, incluant
-les acteurs (utilisateurs ou autres systèmes) et les cas d'utilisation (actions réalisées). Cette modélisation aide à
-visualiser et à planifier les interactions et les fonctionnalités du projet.
+---
 
-#### Diagramme(s) d'Activité
+## Ressources
 
-Vous créerez des diagrammes d'activité pour représenter les flux de travail et les processus opérationnels de votre
-application. Chaque diagramme illustrera les différentes étapes d'une activité, les décisions à prendre, et les actions
-consécutives, afin de visualiser clairement le fonctionnement et le déroulement des tâches au sein du système.
+### [Tableau récapitulatif des Compétences](Ressources/Concepteur-De%CC%81veloppeur-Applications-Compe%CC%81tences-REAC-v4-05_2023.pdf)
 
-## Étape 2 : Conception UX et UI
+### [Fiche de communication](Ressources/Fiche_de_communication_CDA_2023.pdf)
 
-### Conception UX
+### [Référentiel d'Évaluation](Ressources/REV2_CDA_V04_24052023.pdf)
 
-#### Arborescence / Impact mapping
+### [Référentiel Emploi - Activité - Compétences](Ressources/REAC_CDA_V04_24052023.pdf)
 
-Vous définirez l'arborescence de votre application pour structurer le contenu de manière logique et intuitive, sous la
-forme d'un modèle hiérarchique. Vous concevrez également les flux utilisateurs pour comprendre et optimiser le parcours
-de l'utilisateur à travers l'application. L'impact mapping aidera à aligner les fonctionnalités avec les objectifs
-business et les besoins des utilisateurs, assurant ainsi une expérience utilisateur cohérente et efficace.
-
-### Conception UI
-
-#### Zoning / Wireframes
-
-Vous concevrez les interfaces utilisateur (UI) et identifierez les composants nécessaires pour votre application. Cela
-inclut la création de zonings et de wireframes pour visualiser l'apparence et la disposition des différentes pages et
-éléments interactifs, en veillant à respecter les principes de design et d'ergonomie.
-
-## Étape 3 : Stratégie technologique
-
-### Choix technologiques
-
-#### Base du Système d'informations
-
-Vous allez choisir la base du système d'informations en fonction des besoins spécifiques de votre projet. Cela inclura
-le choix de la base de données, du système de gestion des utilisateurs et des protocoles de sécurité.
-
-#### Stack technique et Ressources
-
-Vous allez définir la stack technique nécessaire pour le développement de votre application. Cela comprendra le choix
-des langages de programmation, des frameworks, des bibliothèques, ainsi que des outils de développement et de gestion de
-projet.
-
-#### Mode de déploiement & Versioning
-
-Vous allez déterminer le mode de déploiement de votre application, incluant les environnements de staging et de
-production. Vous allez également définir une stratégie de versionning pour assurer un suivi efficace des différentes
-versions du projet. Vous définirez également la nomenclature de vos versions et de vos releases.
-
-#### Stratégie de corrections, de tests et de mises à niveau
-
-Vous allez élaborer une stratégie pour gérer les corrections de bugs, les tests de qualité et les mises à niveau. Cela
-inclura la définition des processus de test automatisés et manuels, ainsi que la planification des mises à jour et des
-correctifs.
-
-## Étape 4 : Stratégie projet
-
-### Gestion de projet
-
-#### Choix de la méthodologie / de la méthode de gestion du projet
-
-Vous choisirez une méthodologie de gestion de projet adaptée à vos besoins : traditionnelle ou Agile. Puis vous
-choisirez la méthode la plus adaptée à vos contraintes et à vos préférences, comme méthode en V, Scrum, Kanban, ou
-Scrumban. Vous saurez expliquer votre choix en vous basant sur les avantages et les particularités de chaque
-méthodologie, et vous définirez comment vous l'appliquerez tout au long du développement de votre projet.
-
-#### Rédaction des tâches / User Stories
-
-Vous rédigerez des tâches claires et détaillées sous forme de User Stories de préférence. Chaque User Story décrira une
-fonctionnalité du point de vue de l'utilisateur, avec des critères d'acceptation spécifiques. Cette étape sera cruciale
-pour découper le projet en éléments actionnables et faciliter la planification et le suivi du développement.
-
-#### Estimation des ressources
-
-Vous allez estimer les ressources nécessaires pour chaque phase de votre projet, y compris les ressources humaines,
-matérielles et financières. Ces estimations seront essentielles pour planifier et allouer efficacement les ressources.
-
-#### Planification des cycles de développement
-
-Vous allez planifier les cycles de développement en définissant les différentes étapes, les livrables et les échéances.
-Une planification rigoureuse permettra de maintenir le projet sur la bonne voie et d'assurer une livraison dans les
-délais.
-
-#### Statistiques prévisionnelles
-
-Vous allez utiliser des statistiques prévisionnelles pour anticiper les besoins futurs, les risques potentiels et les
-opportunités d'optimisation. Ces prévisions vous aideront à ajuster votre planification et à prendre des décisions
-informées tout au long du projet.
-
-## Étape 5 : Réalisation et Modélisation "Juste à Temps"
-
-### Conception & Modélisation
-
-#### Diagrammes de Séquence
-
-Vous élaborerez des diagrammes de séquence détaillés pour illustrer les interactions et les échanges de messages entre
-les différents composants du système, permettant ainsi de visualiser et de comprendre le flux de processus.
-
-#### Diagrammes de Classes
-
-Vous allez créer des diagrammes de classes pour visualiser les différentes entités de votre application ainsi que leurs
-relations. Ces diagrammes vous permettront de structurer et de clarifier les interactions et dépendances entre les
-différentes composantes du système.
-
-#### Modèle de données
-
-Vous allez concevoir le modèle de données pour votre application. Cela inclut la définition des tables, des colonnes et
-des relations entre elles dans votre base de données. Le modèle de données sera crucial pour garantir l'intégrité et la
-performance de votre application.
-
-### Réalisation
-
-#### Mise en place des environnements
-
-Vous allez configurer les différents environnements nécessaires au développement, aux tests, au recettage et à la
-production de votre application. Cette mise en place garantira un flux de travail fluide et une transition efficace
-entre les différentes phases du projet.
-
-#### Initialisation du projet
-
-Vous allez initialiser le projet en configurant le dépôt de code, en créant les premières branches et en mettant en
-place les outils de gestion de versions. Cette étape posera les bases de votre travail de développement.
-
-#### Implémentation des cycles de développement
-
-Vous allez commencer l'implémentation des cycles de développement en suivant la planification établie. Cela impliquera
-la rédaction de code, la réalisation de tests et la livraison de fonctionnalités conformément aux spécifications du
-projet.
-
-## Étape 6 : Tests, Recettage et Déploiement
-
-### Tests End To End
-
-Vous validerez l'ensemble du flux applicatif en effectuant des tests complets du début à la fin pour vous assurer que
-toutes les fonctionnalités fonctionnent correctement et sans interruption.
-
-### Préparation de la démonstration
-
-Vous mettrez en place une version stable et entièrement fonctionnelle de l'application pour la présentation aux parties
-prenantes (au jury), en veillant à ce que toutes les fonctionnalités soient prêtes à être démontrées.
-
-### Déploiement
-
-Vous mettrez en production l'application après avoir effectué et validé tous les tests nécessaires, garantissant ainsi
-que l'application est prête pour une utilisation en conditions réelles.
-
-## Annexes
-
-### [Analyse du Référentiel de Certification](Analyse%20du%20R%C3%A9f%C3%A9rentiel%20de%20Certification%20-%20CDA.md)
-
-### Tableau de suivi de l'avancement du projet
-
-#### [En ligne (lecture seule - à dupliquer)](https://docs.google.com/spreadsheets/d/1UT1Cx6gRHP4xQIGrMmINYO72aAsb82H4qMykEPyYZG0/edit?usp=sharing)
-
-#### [Format Excel](Ressources%2FTableau%20de%20suivi%20de%20projet.xlsx)
+### [Tableau de suivi de projet (Lecture seule - à dupliquer)](https://docs.google.com/spreadsheets/d/1UT1Cx6gRHP4xQIGrMmINYO72aAsb82H4qMykEPyYZG0/edit?usp=sharing)
